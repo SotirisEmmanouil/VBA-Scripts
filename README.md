@@ -1,7 +1,9 @@
 # VBA-Scripts
 some VBA Scripts I developed
 
-## mergeSameCells
+### mergeSameCells
   A VBA script that merges sequential cells with the same data.
 
-## 
+### highlightAlternatingCells
+  A VBA script that highlights alternating cells in a column. 
+
